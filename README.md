@@ -1,0 +1,1 @@
+Docker image with GoAccess and s3cmd.
